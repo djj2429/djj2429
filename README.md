@@ -4,7 +4,7 @@
 🧠 Data Modelling, Data Quality & Cross-Source Analytics  
 📍 Lyon, France  
 
-I work with complex, multi-source datasets to build reliable data models and dashboards that support strategic and operational decision-making.
+I work with complex, multi-source datasets to build reliable data models, transformations, and dashboards that support strategic and operational decision-making.
 
 ---
 
@@ -18,7 +18,12 @@ I work with complex, multi-source datasets to build reliable data models and das
 
 ### 🧮 Data & Querying
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Query%20Syntax](https://img.shields.io/badge/Query%20Syntax-4B4B4B?style=for-the-badge)
+![Query%20Logic](https://img.shields.io/badge/Query%20Logic-4B4B4B?style=for-the-badge)
+
+### 🔄 Data Transformation & Modeling Languages
+![Power%20Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
+![Qlik%20Script](https://img.shields.io/badge/Qlik%20Script-009845?style=for-the-badge)
 
 ### ⚙️ Automation & Advanced Excel
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -26,53 +31,53 @@ I work with complex, multi-source datasets to build reliable data models and das
 ### 🧠 Core Data Skills
 ![Data%20Modelling](https://img.shields.io/badge/Data%20Modelling-0052CC?style=for-the-badge)
 ![Data%20Cleaning](https://img.shields.io/badge/Data%20Cleaning-6A737D?style=for-the-badge)
-![Cross%20Data%20Analysis](https://img.shields.io/badge/Cross--Source%20Analysis-2E3440?style=for-the-badge)
+![Cross--Source%20Analysis](https://img.shields.io/badge/Cross--Source%20Analysis-2E3440?style=for-the-badge)
 
 ---
 
 ## 📂 Types of Datasets I Work With
 
-I am comfortable working with **raw, heterogeneous datasets**, combining multiple sources into coherent analytical models.
+I am experienced in working with **raw, heterogeneous datasets**, combining multiple sources into coherent analytical and reporting models.
 
-### 📈 Media & Marketing Performance Data
+### 📈 Media & Performance Data
 - Online media datasets (paid search, paid social, display, video)
 - Offline media datasets (TV, OOH, print, radio)
-- Impressions, reach, frequency, clicks, spend
+- Impressions, reach, frequency, spend, clicks
 - ROAS, CPA, CPC, CPM, TACoS calculations
-- Campaign, channel, and creative-level performance data
+- Campaign, channel, and creative-level performance
 
 ### 💰 Sales & Business Data
 - Sales and revenue datasets
-- Product-level and category-level performance
+- Product and category-level performance
 - Market share data
 - Pricing and promotional data
 - Contribution to sales and performance attribution
 
 ### 🌍 Digital & Web Analytics Data
 - Google Analytics datasets
-- Website traffic, acquisition, behavior, and conversion data
+- Traffic, acquisition, behavior, and conversion data
 - Funnel analysis and performance tracking
 - Organic vs paid performance comparisons
 
 ### 🔎 Search & SEO Data
 - SEO performance datasets
 - Keyword rankings and visibility
-- Search demand analysis
-- Google Trends data for demand evolution and seasonality
+- Search demand and seasonality analysis
+- Google Trends data
 - Organic content and video performance
 
 ### 💬 Consumer & Social Intelligence
 - Ratings and reviews datasets
 - Social listening and social intelligence data
 - Brand perception and sentiment analysis
-- Organic social performance (including video platforms such as TikTok)
-- Volume, engagement, and trend analysis
+- Organic social and video performance (including platforms such as TikTok)
+- Engagement, volume, and trend analysis
 
 ---
 
 ## 🔍 What I Enjoy Working On
-- Building clean and scalable data models across multiple sources  
+- Building scalable data models across multiple sources  
+- Data transformation using Power Query, DAX, and Qlik Script  
 - Ensuring data quality, consistency, and business logic alignment  
 - Designing dashboards focused on clarity and decision-making  
-- Cross-analyzing media, sales, and consumer data  
-- Translating complex business questions into measurable KPIs  
+- Translating complex business questions into actionable KPIs  
