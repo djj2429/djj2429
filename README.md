@@ -11,27 +11,30 @@ I work with complex, multi-source datasets to build reliable data models, transf
 ## 🧰 Tools & Skills
 
 ### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
+![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=FFFFFF)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=FFFFFF)
 
 ### 🧮 Data & Querying
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Query%20Logic](https://img.shields.io/badge/Query%20Logic-4B4B4B?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Query%20Logic](https://img.shields.io/badge/Query%20Logic-4B5563?style=for-the-badge&logoColor=FFFFFF)
 
 ### 🔄 Data Transformation & Modeling Languages
-![Power%20Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
-![Qlik%20Script](https://img.shields.io/badge/Qlik%20Script-009845?style=for-the-badge)
+![Power%20Query](https://img.shields.io/badge/Power%20Query-0F9D58?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF)
+![DAX](https://img.shields.io/badge/DAX-F4B400?style=for-the-badge&logoColor=000000)
+![Qlik%20Script](https://img.shields.io/badge/Qlik%20Script-00A86B?style=for-the-badge&logoColor=FFFFFF)
 
 ### ⚙️ Automation & Advanced Excel
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF)
 
 ### 🧠 Core Data Skills
-![Data%20Modelling](https://img.shields.io/badge/Data%20Modelling-0052CC?style=for-the-badge)
-![Data%20Cleaning](https://img.shields.io/badge/Data%20Cleaning-6A737D?style=for-the-badge)
-![Cross--Source%20Analysis](https://img.shields.io/badge/Cross--Source%20Analysis-2E3440?style=for-the-badge)
+![Data%20Modelling](https://img.shields.io/badge/Data%20Modelling-2563EB?style=for-the-badge&logoColor=FFFFFF)
+![Data%20Cleaning](https://img.shields.io/badge/Data%20Cleaning-6B7280?style=for-the-badge&logoColor=FFFFFF)
+![Cross--Source%20Analysis](https://img.shields.io/badge/Cross--Source%20Analysis-374151?style=for-the-badge&logoColor=FFFFFF)
+
+### 🎨 Visualization & Communication
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=FFFFFF)
 
 ---
 
@@ -70,7 +73,7 @@ I am experienced in working with **raw, heterogeneous datasets**, combining mult
 - Ratings and reviews datasets
 - Social listening and social intelligence data
 - Brand perception and sentiment analysis
-- Organic social and video performance (including platforms such as TikTok)
+- Organic social and video performance, including TikTok
 - Engagement, volume, and trend analysis
 
 ---
